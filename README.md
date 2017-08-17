@@ -1,6 +1,12 @@
 # slides-rxjs-look-behind
 
-> TODO
+> :clipboard: Slides for Angular Warsaw #13
+
+## Open slides in browser
+
+https://piecioshka.github.io/slides-rxjs-look-behind/
+
+![](./images/logo-400x400.png)
 
 ## License
 

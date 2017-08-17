@@ -1,6 +1,10 @@
 class: middle, center
 
-# INSERT_NAME
+# RxJS okiem doświadczonego developera
+
+Podczas prelekcji dowiesz się o co chodzi z RxJS, do czego jest ono przydatne 
+Angularowi. Celem wystąpienia jest zaprezentowanie tworzenia oprogramowania 
+zgodnie z paradygmatem programowania funkcyjnego.
 
 ---
 
