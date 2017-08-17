@@ -1,0 +1,19 @@
+{
+    "private": true,
+    "name": "slides-rxjs-look-behind",
+    "description": "TODO",
+    "version": "0.0.0",
+    "license": "MIT",
+    "author": {
+        "name": "Piotr Kowalski",
+        "email": "piecioshka@gmail.com",
+        "url": "https://piecioshka.pl/"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": ""
+    }
+}
