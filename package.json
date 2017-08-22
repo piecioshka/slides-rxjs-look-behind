@@ -1,8 +1,8 @@
 {
     "private": true,
     "name": "slides-rxjs-look-behind",
-    "description": "TODO",
-    "version": "0.0.0",
+    "description": "Slides for Angular Warsaw #13",
+    "version": "1.0.0",
     "license": "MIT",
     "author": {
         "name": "Piotr Kowalski",
@@ -14,6 +14,6 @@
     "devDependencies": {},
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "git@github.com:piecioshka/slides-rxjs-look-behind.git"
     }
 }

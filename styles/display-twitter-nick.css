@@ -1,0 +1,9 @@
+
+.remark-slide-content::after {
+    content: '@piecioshka';
+    position: absolute;
+    left: 20px;
+    bottom: 12px;
+    color: #2ecc71;
+    font-weight: bold;
+}

@@ -3,6 +3,7 @@
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Fira Sans', sans-serif;
     margin-top: 0;
+    color: #2c3e50;
 }
 
 h1 {
@@ -19,12 +20,13 @@ h3 {
 }
 
 a {
-    color: #2034f4;
+    color: #d35400;
     text-decoration: none;
+    border-bottom: 1px solid;
 }
 
 a:hover {
-    text-decoration: underline;
+    border-bottom: none;
 }
 
 li {
@@ -36,7 +38,7 @@ iframe {
 }
 
 code {
-    background: #444;
+    background: #3498db;
     color: white;
     padding: 2px 15px;
     margin: 3px 0;
@@ -47,12 +49,17 @@ code {
 mark {
     border-radius: 8px;
     display: inline-block;
+    padding: 0 20px;
+    background-color: #8e44ad;
+    color: white;
 }
 
-mark:before,
-mark:after {
-    content: '‼️';
-    padding: 0 10px;
+kbd {
+    background-color: #ecf0f1;
+    color: #2c3e50;
+    padding: 1px 6px;
+    border: 1px solid #bfbfbf;
+    border-radius: 3px;
 }
 
 /* -------------------------------------------------------------------------- */
@@ -61,4 +68,42 @@ mark:after {
     margin-top: 0;
     font-family: 'Fira Sans', sans-serif;
     font-size: 26px;
+}
+
+/* -------------------------------------------------------------------------- */
+
+.remark-slide-content.slide-fullscreen-background {
+    background-size: contain;
+}
+
+/* -------------------------------------------------------------------------- */
+
+.size10,
+.size10 .remark-code {
+    font-size: 10px;
+}
+
+.size20,
+.size20 .remark-code {
+    font-size: 20px;
+}
+
+.size25,
+.size25 .remark-code {
+    font-size: 25px;
+}
+
+.size30,
+.size30 .remark-code {
+    font-size: 30px;
+}
+
+.size40,
+.size40 .remark-code {
+    font-size: 40px;
+}
+
+.size50,
+.size50 .remark-code {
+    font-size: 50px;
 }
